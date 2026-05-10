@@ -5,9 +5,9 @@
 
 ## About Me
 
-I'm a Year 1 HND Computing student with a focus on network infrastructure design and implementation. My work sits at the intersection of structured systems thinking and hands-on Cisco lab configuration — I care about building networks that are not just functional, but maintainable, documented, and scalable by design.
+I am a HND Computing student in Year 1, specializing in Network infrastructure design and implementation. My focus is on structured systems thinking and on-the-job implementation of Cisco systems in the lab — not just working things out, but doing things that can be worked out, documented, and scalable in a well-designed manner.
 
-Currently interning at **Apex Core IT Services**, where I'm working on real-world LAN deployments for institutional clients.
+At present, I'm interning at Apex Core IT Services, where I am involved in real-life LAN deployments for institutional clients.
 
 ---
 
